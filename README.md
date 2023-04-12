@@ -10,4 +10,4 @@ cd musicid-docker
 docker-compose up
 ```
 
-L'interface est MusicID est présente sur le port `8501` et l'interface Neo4J sur le port `7474`.
+L'interface de MusicID est présente sur le port `8501` et l'interface Neo4J sur le port `7474`.
