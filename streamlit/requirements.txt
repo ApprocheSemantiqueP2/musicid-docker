@@ -1,0 +1,6 @@
+neo4j
+streamlit
+spotipy
+lyricsgenius
+Pillow
+openai
