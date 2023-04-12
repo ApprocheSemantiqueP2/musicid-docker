@@ -9,7 +9,7 @@ import openai
 
 from neo4j import GraphDatabase
 
-openai.api_key = "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"
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
 username = os.environ["SPOTIFY_USERNAME"]
 cid = os.environ["SPOTIFY_CID"]
